@@ -87,12 +87,19 @@ Then upload your installers in the [GitHub Releases](https://github.com/AshnaPar
 `B.Tech - Rajagiri School of Engineering and Technology`
 
 ---
-## 📜 License
-
-This project is for educational and non-commercial use. Contact the author for extended rights.
 ---
 
 ## ❗ License
 
-This project is protected under an **All Rights Reserved** license.  
-You may view the code, but **reproduction, modification, or reuse is prohibited** without written permission from the author.
+This project is protected under an **All Rights Reserved** license.
+
+You are allowed to:
+- View the code publicly for educational or reference purposes.
+
+You are **not allowed to**:
+- Copy, reuse, modify, distribute, or publish this code (or any part of it)
+- Use it in academic, personal, or commercial projects without **explicit written permission** from the author.
+
+🔒 Unauthorized use is strictly prohibited.
+📩 Contact **Ashna Parveen** for licensing inquiries.
+
