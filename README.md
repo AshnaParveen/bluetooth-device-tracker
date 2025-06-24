@@ -90,3 +90,9 @@ Then upload your installers in the [GitHub Releases](https://github.com/AshnaPar
 ## 📜 License
 
 This project is for educational and non-commercial use. Contact the author for extended rights.
+---
+
+## ❗ License
+
+This project is protected under an **All Rights Reserved** license.  
+You may view the code, but **reproduction, modification, or reuse is prohibited** without written permission from the author.
