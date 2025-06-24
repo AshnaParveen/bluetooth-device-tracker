@@ -1,0 +1,38 @@
+{
+  "name": "bluetooth-electron-app",
+  "version": "1.0.0",
+  "description": "A Bluetooth device tracker app with real-time distance graph.",
+  "author": {
+    "name": "P S Ashna Parveen",
+    "email": "ashnaparveen28@gmail.com"
+  },
+  "homepage": "https://example.com",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "USE_SYSTEM_FPM=true electron-builder"
+  },
+  "build": {
+    "productName": "Bluetooth Device Tracker",
+    "appId": "com.bluetooth.tracker",
+  "files": [
+    "main.js",
+    "build/**/*",
+    "bluet5.py",
+    "venv/**/*",
+    "!node_modules/*/{CHANGELOG.md,README.md,README,readme.md,readme}",
+    "!**/*.map"
+  ],
+    "linux": {
+      "target": ["AppImage", "deb"],
+      "category": "Utility",
+      "maintainer": "ashnaparveen28@gmail.com"
+    }
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "electron": "^27.0.0",
+    "electron-builder": "^24.6.0"
+  }
+}
